@@ -13,3 +13,7 @@ server.pid
 *.eml
 /dist/
 .cache
+.idea/
+.DS_Store
+*.class
+*.cache
